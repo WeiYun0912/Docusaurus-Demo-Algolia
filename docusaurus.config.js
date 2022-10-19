@@ -8,16 +8,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://weiyun0912.github.io",
+  baseUrl: "/Docusaurus-Demo-Algolia/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "WeiYun0912", // Usually your GitHub org/user name.
+  projectName: "Docusaurus-Demo-Algolia", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        apiKey: "b14c96609eebac13e6412d80802884bb",
-        indexName: "docusaurus-demo-algolias",
-        appId: "XWN4XQZ58C",
+        apiKey: "9f15b962a56f560387d732929a9f105e",
+        appId: "21M3BLW8FU",
+        indexName: "Docusaurus-Demo-Algolia",
       },
 
       navbar: {

@@ -1,7 +1,9 @@
 {
-  "index_name": "wei_Docusaurus",
-  "start_urls": ["https://weiyun0912.github.io/Wei-Docusaurus/"],
-  "sitemap_urls": ["https://weiyun0912.github.io/Wei-Docusaurus/sitemap.xml"],
+  "index_name": "Docusaurus-Demo-Algolia",
+  "start_urls": ["https://weiyun0912.github.io/Docusaurus-Demo-Algolia/"],
+  "sitemap_urls": [
+    "https://weiyun0912.github.io/Docusaurus-Demo-Algolia/sitemap.xml"
+  ],
   "sitemap_alternate_links": true,
   "stop_urls": ["/tests"],
   "selectors": {
